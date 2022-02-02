@@ -65,6 +65,9 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 https://github-readme-streak-stats.herokuapp.com/?user=FeldtSecSolutions
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FeldtSecSolutions&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ---
 
 ### :writing_hand: Blog Posts :
