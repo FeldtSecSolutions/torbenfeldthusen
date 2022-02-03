@@ -55,7 +55,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :telescope: I’m a Software Engineer and Digital Nomad.
 
 
-- :seedling: Static Code Analysis, Refactoring, Design Patterns, OOP etc.
+- :seedling: Working with Static Code Analysis, Refactoring, Design Patterns, OOP etc.
 
 - :zap: Besides that I’m passionate Traveler.
 
