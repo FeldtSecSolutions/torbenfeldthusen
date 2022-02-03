@@ -3,7 +3,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am TF from FeldtSecSolutions!
 
-A Software Engineer, graduated from the Engineering College in Copenhagen, spezialicing in Penetration Testing and Programming Languages like C/C++, Python,
+A Software Engineer, graduated from the Engineering College in Copenhagen, spezialicing in Static Code Analysis, Refactoring and Programming Languages like C/C++, Python,
 PHP, Javascript and Databases MySQL, PostgreSQL, Oracle etc.
 
   
