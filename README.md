@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from DK.
 
 
-- :telescope: I’m working as a Software Engineer spezialising in static code aanalysis.
+- :telescope: I’m a Software Engineer and Digital Nomad.
 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Static Code Analysis, Refactoring, Design Patterns, OOP etc.
 
-- :zap: In my free time, I solve problems.
+- :zap: Besides that I’m passionate Traveler.
 
 - :mailbox:How to reach me:
 
