@@ -61,7 +61,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox:How to reach me:
 
-<a href="mailto:feldtsecsolutions@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:feldtsecsolutions@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
 
 ---
 
