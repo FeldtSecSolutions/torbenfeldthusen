@@ -59,7 +59,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: Besides that I’m passionate Traveler.
 
-- :mailbox:How to reach me: <a href="mailto:feldtsecsolutions@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+- :mailbox:How to reach me:   <a href="mailto:feldtsecsolutions@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
 
 ---
 
