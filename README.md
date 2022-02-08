@@ -57,7 +57,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Working with Static Code Analysis, Refactoring, Design Patterns, OOP etc.
 
-- :zap: I can help audit your source code and find vulnerabilities in your project!.
+- :zap: I can help audit your source code and find vulnerabilities in your project!. Contact me via mail for further information!
 
 - :mailbox:How to reach me:   <a href="mailto:feldtsecsolutions@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
 
