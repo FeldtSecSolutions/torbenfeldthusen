@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from DK.
 
 
-- :telescope: I’m a Software Engineer and Digital Nomad.
+- :telescope: I’m a Digital Nomad and a passionate traveler.
 
 
 - :seedling: Working with Static Code Analysis, Refactoring, Design Patterns, OOP etc.
